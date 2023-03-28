@@ -15,7 +15,12 @@ public class DoggiesRunner
 	
 	public static Dog findOldest( List<Dog> list )
 	{
-		return null;
+		Dog oldest = list.get(0);
+		for(int i = 0; i < list.size(); i++)
+			if(list.get(i).getAge() > oldest.getAge() )
+				oldest = list.get(i);
+
+		return oldest;
 	}
 	
 	
@@ -26,22 +31,18 @@ public class DoggiesRunner
 		
 		ray.add( new Dog( "fred", 11) );
 		ray.add( new Dog( "ann", 21) );
-		
+		ray.add( new Dog("baxter",2));
+		ray.add( new Dog("coal", 1));
+		ray.add(new Dog("tianbo",15));
+		ray.add(new Dog("lily",6));
 		//add more Dogs to the list
-		
-		
-		
-		
-		
+
 		System.out.println( ray );
 		
 		//write a for each loop to print out all of the Dogs
-		
-		
-		
-		
-		
-		
+		for(Dog d:ray)
+			out.println(d);
+
 		//call the method to find the oldest Dog
 		//print the oldest Dog
 		

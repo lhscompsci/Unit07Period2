@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e88c501e-572c-4f9e-b77c-054bed6fe825" name="Changes" comment="ArrayList basics">
+    <list default="true" id="e88c501e-572c-4f9e-b77c-054bed6fe825" name="Changes" comment="ArrayList of Dog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoggiesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoggiesRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,20 +22,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/sam.black/IdeaProjects/Unit07Period2/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sam.black\IdeaProjects\Unit07Period2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DoggiesRunner">
+    <configuration name="DogRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogRunner" />
+      <module name="Unit07Period2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoggiesRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoggiesRunner" />
+      <module name="Unit07Period2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Unit07Period2" />
@@ -44,6 +65,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoggiesRunner" />
+        <item itemvalue="Application.DogRunner" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -58,6 +81,7 @@
       <updated>1679406808455</updated>
       <workItem from="1679406809508" duration="2633000" />
       <workItem from="1680010870860" duration="40000" />
+      <workItem from="1680012193082" duration="1602000" />
     </task>
     <task id="LOCAL-00001" summary="ArrayList basics">
       <created>1679409645419</created>
@@ -66,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679409645419</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ArrayList of Dog">
+      <created>1680012246510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680012246510</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ArrayList basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayList basics" />
+    <MESSAGE value="ArrayList of Dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList of Dog" />
   </component>
 </project>
